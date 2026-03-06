@@ -1,7 +1,5 @@
 # Timer-Event
 
-下面我把你這次 **Timer Event（CreateEvent / SetTimer / GetTime / CloseEvent）** 用到的函數，整理成一份「README 筆記版」：每個 API 的用途、參數、常見回傳碼、踩雷點（你現在遇到的「秒被年蓋掉」也一起收進來）。
-
 ---
 
 # Timer Event（UEFI）README 筆記
