@@ -295,4 +295,4 @@ set PYTHONIOENCODING=utf-8
 
 rmdir /s /q Build\CmosRwAppPkg
 
-build -p CpuIdPkg\CpuIdPkg.dsc -a X64 -t VS2019 -b DEBUG
+build -p TimerEventPkg\TimerEventPkg.dsc -a X64 -t VS2019 -b DEBUG
