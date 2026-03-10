@@ -1,0 +1,6 @@
+[Defines]
+  DEC_SPECIFICATION              = 0x00010005
+  PACKAGE_NAME                   = TimerEventPkg
+  PACKAGE_GUID                   = 2B61D9B5-8B1C-4B2D-A06B-8B4C0F8B7F2A
+  PACKAGE_VERSION                = 0.1
+
