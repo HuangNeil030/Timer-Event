@@ -1,7 +1,3 @@
-# Timer-Event
-
----
-
 # Timer Event（UEFI）README 筆記
 
 目標：**建立週期性 Timer Event**，每秒觸發 Notify Callback，在 Callback 裡呼叫 **gRT->GetTime()** 取得時間並顯示到「秒」。
